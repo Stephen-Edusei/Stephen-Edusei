@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**Stephen-Edusei/Stephen-Edusei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Stephen Kofi Nyantakyi Edusei! <br/><a 
+href="https://www.linkedin.com/in/stephen-kofi-nyantakyi-edusei-b08766108/">Data Analyst</a>
+</h1>
 
-Here are some ideas to get you started:
+<h2>📊Data Analytics Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- <b>💾SQL Project</b>
+  - [Demonstrating SQL Techniques]( https://github.com/Stephen-Edusei/Stephen-Edusei)
+
+<h2>📚Certifications:</h2>
+
+- <b>📜Beginner to Intermediate SQL Boot Camp</b>
+  - [Demonstrated competency in beginner to intermediate SQL skills]( https://www.virtualbadge.io/certificate-validator?credential=eb404c45-c020-4229-9eac-e7a453a4ead3)
+
+<h2>📱Connect with me:</h2>
+<a href="https://www.linkedin.com/in/stephen-kofi-nyantakyi-edusei-b08766108/" target="_blank">
+  <img align="left" alt="Stephen Kofi Nyantakyi Edusei" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<img width="468" height="345" alt="image" src="https://github.com/user-attachments/assets/2f5c9607-8cc3-4fae-adab-4e6e868d229b" />
+
 -->
