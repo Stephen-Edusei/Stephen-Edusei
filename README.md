@@ -17,6 +17,3 @@ href="https://www.linkedin.com/in/stephen-kofi-nyantakyi-edusei-b08766108/">Data
 <a href="https://www.linkedin.com/in/stephen-kofi-nyantakyi-edusei-b08766108/" target="_blank">
   <img align="left" alt="Stephen Kofi Nyantakyi Edusei" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<img width="468" height="345" alt="image" src="https://github.com/user-attachments/assets/2f5c9607-8cc3-4fae-adab-4e6e868d229b" />
-
--->
