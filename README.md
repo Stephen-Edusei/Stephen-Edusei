@@ -1,4 +1,3 @@
-
 <h1>Hi, I'm Stephen Kofi Nyantakyi Edusei! <br/><a 
 href="https://www.linkedin.com/in/stephen-kofi-nyantakyi-edusei-b08766108/">Data Analyst</a>
 </h1>
@@ -6,7 +5,7 @@ href="https://www.linkedin.com/in/stephen-kofi-nyantakyi-edusei-b08766108/">Data
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Demonstrating SQL Techniques]( https://github.com/Stephen-Edusei/Stephen-Edusei)
+  - [Demonstrating SQL Techniques](https://github.com/Stephen-Edusei/SQL_Techniques)
 
 <h2>📚Certifications:</h2>
 
