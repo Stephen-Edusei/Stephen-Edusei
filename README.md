@@ -7,6 +7,11 @@ href="https://www.linkedin.com/in/stephen-kofi-nyantakyi-edusei-b08766108/">Data
 - <b>💾SQL Project</b>
   - [Demonstrating SQL Techniques](https://github.com/Stephen-Edusei/SQL_Techniques)
 
+<h2>📊Data Science Projects:</h2>
+
+- <b>💾Python Project</b>
+  - [Demonstrating Python Techniques](https://github.com/Stephen-Edusei/SQL_Techniques)
+
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
