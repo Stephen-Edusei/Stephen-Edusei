@@ -10,7 +10,7 @@ href="https://www.linkedin.com/in/stephen-kofi-nyantakyi-edusei-b08766108/">Data
 <h2>📊Data Science Projects:</h2>
 
 - <b>💾Python Project</b>
-  - [Demonstrating Python Techniques](https://github.com/Stephen-Edusei/SQL_Techniques)
+  - [Demonstrating Python Techniques](https://github.com/Stephen-Edusei/Python_Project_1)
 
 <h2>📚Certifications:</h2>
 
