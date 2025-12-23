@@ -1,5 +1,6 @@
 <h1>Hi, I'm Stephen Kofi Nyantakyi Edusei! <br/><a 
-href="https://www.linkedin.com/in/stephen-kofi-nyantakyi-edusei-b08766108/">Data Analyst</a>
+href="https://www.linkedin.com/in/stephen-kofi-nyantakyi-edusei-b08766108/">Data Analyst</a> | <a
+href=>Data Science</a>                                                                                                
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
